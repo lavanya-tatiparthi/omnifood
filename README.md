@@ -1,1 +1,1 @@
-![Omnifood](img/screenshot.png)
+![Omni food](img/screenshot.png)
